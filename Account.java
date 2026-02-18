@@ -1,9 +1,9 @@
 /**
  * the account class, used to create the account class
  *
- * @author jayden lueders
+ * @author Jayden Lueders
  * @version beta 0.1
- * @since 2025/02/13
+ * @since 2026/17/2
  */
 public class Account {
     private static int lastId = 0;

@@ -4,9 +4,9 @@ import java.util.regex.Pattern;
 /**
  * The Bank App. Used to test the Account class.
  *
- * @author dejohns2
+ * @author Jayden Lueders
  * @version beta 0.1
- * @since 2025.02.09
+ * @since 2026/17/2
  */
 public class BankApp {
     /**
